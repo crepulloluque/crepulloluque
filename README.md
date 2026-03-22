@@ -9,14 +9,14 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=0047AB&style=plastic" height=25px/> 
+	<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat" height="25"/> 
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 - 🎓 Estudiante de **2º DAW (Desarrollo de Aplicaciones Web)**
 - 💻 Me gusta desarrollar aplicaciones y resolver problemas con software  
@@ -28,12 +28,15 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Contacto
 
 <p align="center">
-	<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
-	<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+	<a href="mailto:crepulloluque@gmail.com">
+		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
+	</a>
+	<a href="https://www.linkedin.com/in/carlos-repullo-luque-66653a3a9">
+		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/>
+	</a>
 </p>
 
 ---
@@ -45,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
 </p>
 
 ### 🌐 Frontend
