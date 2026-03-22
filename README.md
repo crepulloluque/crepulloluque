@@ -56,7 +56,7 @@
 
 🔹 **Workout3D**  
 Aplicación orientada a visualización y aprendizaje de ejercicios con modelos 3D.  
-> (Añade aquí el enlace cuando lo tengas subido)
+> (https://github.com/crepulloluque/workout3d)
 
 ---
 
