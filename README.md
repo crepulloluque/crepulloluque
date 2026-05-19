@@ -68,15 +68,6 @@ Web corporativa en producción para empresa del sector industrial.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crepulloluque&show_icons=true&locale=es&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crepulloluque&layout=compact&locale=es&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
 ## 📈 Actividad
 
 <p align="center">
