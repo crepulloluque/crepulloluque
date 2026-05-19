@@ -1,14 +1,13 @@
 <h1 align="center">Carlos Repullo Luque</h1>
 <p align="center">
-  <b>Desarrollador Web · Grado Superior DAW · Granada 🎯</b>
+  <b>Desarrollador Web | Grado Superior DAW</b>
 </p>
-
 <p align="center">
-  <a href="mailto:crepulloluque@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  <a href="https://mail.google.com/mail/?view=cm&to=crepulloluque@gmail.com">
+    <img src="https://img.shields.io/badge/email-contacto-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/carlos-repullo-luque-66653a3a9">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-perfil-blue?style=flat&logo=linkedin">
   </a>
 </p>
 
@@ -17,17 +16,69 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Graduado en **Desarrollo de Aplicaciones Web (DAW)**
-- 💻 Apasionado del desarrollo **full-stack**
+- 💻 Interesado en el desarrollo **full-stack**
 - 🤖 Próximamente: curso de **Inteligencia Artificial y Big Data**
-- 🌐 Webs en producción desarrolladas para clientes reales
-- 🚀 Siempre buscando nuevos proyectos y retos
+- 🧠 Actualmente trabajando con:
+  - Java
+  - SQL (bases de datos relacionales)
+  - JavaScript
+- 🚀 Proyecto destacado: **Workout3D**
+- 📈 Enfocado en mejorar mis habilidades y construir proyectos reales
 
 ---
 
-## 🌐 Webs en producción
+## 🛠️ Tecnologías
 
-| Proyecto | Stack | Link |
-|----------|-------|------|
-| **Perdiendo el Rumbo Camper** | WordPress | [ver web](https://perdiendoelrumbocamper.com/) |
-| **Láser Imar** | WordPress | [ver web](http://laserimar.com/) |
-| **Workout3D** | Java · JS · MySQL | [ver repo](https://github.com/crepulloluque/workout3d) |
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</p>
+
+### CMS & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 **Workout3D**
+Aplicación orientada a visualización y aprendizaje de ejercicios con modelos 3D.
+> (https://github.com/crepulloluque/workout3d)
+
+🔹 **Perdiendo el Rumbo Camper**
+Web en producción para empresa de alquiler de campers.
+> (https://perdiendoelrumbocamper.com/)
+
+🔹 **Láser Imar**
+Web corporativa en producción para empresa del sector industrial.
+> (http://laserimar.com/)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crepulloluque&show_icons=true&locale=es&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crepulloluque&layout=compact&locale=es&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=crepulloluque&theme=tokyonight_duo&hide_border=true" />
+</p>
